@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "transform-export-extensions"
+  ],
+  "presets": [
+    "react-app",
+    "flow"
+  ]
+}
